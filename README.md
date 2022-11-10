@@ -1,2 +1,3 @@
 # simple shell
-simple shell command writting in C-lang
+A simple shell command written in C-lang
+
