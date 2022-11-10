@@ -1,2 +1,2 @@
-# simple_shell
-simple shell command
+# simple shell
+simple shell command writting in C-lang
